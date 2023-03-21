@@ -1,1 +1,1 @@
-# langchain-tutorials
+# friday lunch LangChain Tutorials
